@@ -1,0 +1,7 @@
+build/
+*.obj
+*.o
+*.lib
+*.exp
+*.asi
+*.log
