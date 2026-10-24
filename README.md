@@ -28,7 +28,7 @@ Online events are never changed.
 - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) installed as `dinput8.dll`.
 - Windows 10 or 11 (the menu uses `d3dcompiler_47.dll`, which ships with them).
 - To race any car in any event, a modified `GAMELOGIC/CHALLENGEINSTANCES.BNDL` that allows every car
-  everywhere (not included). Without it, the game's own car restrictions apply as usual.
+  everywhere, such as Open Selection for All Events (Vanilla) by Xpr3xa (not included). Without it, the game's own car restrictions apply as usual.
 
 ## Installation
 
