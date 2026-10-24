@@ -23,8 +23,7 @@ Online events are never changed.
 ## Requirements
 
 - Need for Speed: Hot Pursuit Remastered for PC, `NFS11Remastered.exe` with PE timestamp `613F368C`
-  (459,255,296 bytes). The plugin checks every game address it uses at start-up and does nothing on
-  any other build.
+  (459,255,296 bytes). The plugin may or may not work on other builds.
 - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) installed as `dinput8.dll`.
 - Windows 10 or 11 (the menu uses `d3dcompiler_47.dll`, which ships with them).
 - To race any car in any event, a modified `GAMELOGIC/CHALLENGEINSTANCES.BNDL` that allows every car
