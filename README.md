@@ -139,3 +139,7 @@ the repository root in an *x64 Native Tools Command Prompt*.
 
 MIT. See [LICENSE](LICENSE). Dear ImGui keeps its own licence in `third_party/imgui/LICENSE.txt`.
 Not affiliated with Electronic Arts or Criterion Games.
+
+## AI disclosure
+
+The script was built using Claude.
