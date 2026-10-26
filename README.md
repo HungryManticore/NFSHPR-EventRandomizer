@@ -10,6 +10,8 @@ less scripted:
 - **Weather**: as the event, random with adjustable chances, dry, wet roads, rain or storm.
 - **In-game menu** (default **F5**), drawn over the game, to change all of this between events.
 
+<img width="1919" height="1079" alt="menu" src="https://github.com/user-attachments/assets/bc921942-0a43-43a2-a447-c436dcebb30a" />
+
 Online events are never changed.
 
 | Racer series | Cop class |
